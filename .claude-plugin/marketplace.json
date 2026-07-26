@@ -1,0 +1,31 @@
+{
+  "name": "Senior Solution Architect Assessment Preparation",
+  "owner": {
+    "name": "Digital needs",
+    "email": "digitalneeds.tech@epam.com"
+  },
+  "plugins": [
+    {
+      "name": "Senior Solution Architect Assessment Preparation",
+      "source": {
+        "source": "github",
+        "repo": "digitalneedstech/senior-sa-assessment-prep"
+      },
+      "description": "This plugin used to provide guidance on assessment for Senior Solution Architect role. It provides information on the assessment process, preparation tips, and resources to help candidates succeed in the assessment.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Digital needs"
+      },
+      "repository": "digitalneedstech/senior-sa-assessment-prep",
+      "license": "MIT",
+      "keywords": [
+        "assessment",
+        "preparation",
+        "senior solution architect",
+        "guidance",
+        "resources"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
