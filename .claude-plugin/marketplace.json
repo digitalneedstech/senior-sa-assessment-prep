@@ -1,12 +1,12 @@
 {
-  "name": "Senior Solution Architect Assessment Preparation",
+  "name": "Senior-Solution-Architect-Assessment-Preparation-marketplace",
   "owner": {
     "name": "Digital needs",
     "email": "digitalneeds.tech@epam.com"
   },
   "plugins": [
     {
-      "name": "Senior Solution Architect Assessment Preparation",
+      "name": "Senior-Solution-Architect-Assessment-Preparation",
       "source": {
         "source": "github",
         "repo": "digitalneedstech/senior-sa-assessment-prep"
