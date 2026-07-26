@@ -12,7 +12,7 @@
         "repo": "digitalneedstech/senior-sa-assessment-prep"
       },
       "description": "This plugin used to provide guidance on assessment for Senior Solution Architect role. It provides information on the assessment process, preparation tips, and resources to help candidates succeed in the assessment.",
-      "version": "1.0.1",
+      "version": "0.0.1",
       "author": {
         "name": "Digital needs"
       },
